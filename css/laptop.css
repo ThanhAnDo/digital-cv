@@ -58,7 +58,7 @@ section > .container{
     
 }
 #banner-img{
-    background-image: url("https://github.com/ThanhAnDo/digital-cv/blob/digital-cv/images/banner.jpg?raw=true");
+    background-image: url("https://raw.githubusercontent.com/ThanhAnDo/digital-cv/digital-cv/images/banner.jpg");
     width: 1400px;
     height: 380px;
     object-fit: cover;
