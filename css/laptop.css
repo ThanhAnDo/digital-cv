@@ -58,7 +58,7 @@ section > .container{
     
 }
 #banner-img{
-    background-image: url(/images/banner.jpg);
+    background-image: url(images/banner.jpg);
     width: 1400px;
     height: 380px;
     object-fit: cover;
