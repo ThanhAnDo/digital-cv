@@ -55,7 +55,7 @@
     
 }
 #banner-img{
-    background-image: url(""https://raw.githubusercontent.com/ThanhAnDo/digital-cv/digital-cv/images/banner_1.jpg"");
+    background-image: url("https://raw.githubusercontent.com/ThanhAnDo/digital-cv/digital-cv/images/banner_1.jpg");
     width: 768px;
     height: 380px;
     object-fit: cover;
